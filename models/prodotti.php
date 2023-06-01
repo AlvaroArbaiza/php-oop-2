@@ -1,13 +1,13 @@
 <?php 
     class Prodotti {
 
-        public $cani;
-        public $gatti;
+        public $genre;
+        public $image;
 
-        public function __construct($_cani, $_gatti) {
+        public function __construct($_genre, $_image) {
 
-            $this->cani = $_cani;
-            $this->gatti = $_gatti;
+            $this->genre = $_genre;
+            $this->image = $_image;
 
         }
 
