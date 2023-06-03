@@ -1,5 +1,6 @@
-<?php 
-    class Prodotti {
+<?php
+
+    class Category {
 
         public $genre;
         public $image;
@@ -12,4 +13,5 @@
         }
 
     }
+
 ?>

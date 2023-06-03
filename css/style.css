@@ -1,0 +1,11 @@
+.container.left .card-img-top {
+    height: 100px;
+}
+
+.container.left {
+    flex-basis: 30%;
+}
+
+/* .container.right {
+    flex-basis: 70%;
+} */
