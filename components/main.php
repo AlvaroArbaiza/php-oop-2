@@ -58,11 +58,11 @@
         new SingleProduct(
             'cani', 
             'https://images.unsplash.com/photo-1543466835-00a7907e9de1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80',
-            'Scobby House', 
+            'Scobby Foods', 
             new Products(
-                'cuccia', 
-                '100€', 
-                'https://images.unsplash.com/photo-1595886578982-a9de564a984e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=415&q=80'
+                'cibo', 
+                '10€', 
+                'https://images.unsplash.com/photo-1597843786411-a7fa8ad44a95?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80'
             ) 
         ),
         new SingleProduct(
@@ -78,11 +78,11 @@
         new SingleProduct(
             'roditori',
             'https://images.unsplash.com/photo-1548767797-d8c844163c4c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80',
-            'Tiny House',
+            'Topis Roulant',
             new Products(
-                'cuccia',
-                '80€',
-                'https://images.unsplash.com/photo-1657399621130-67f3e1bd8da7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80'
+                'gioco',
+                '30€',
+                'https://images.unsplash.com/photo-1657076761228-bdb21cf0bc7c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80'
             )
         ),
         new SingleProduct(
@@ -98,11 +98,11 @@
         new SingleProduct(
             'serpenti',
             'https://images.unsplash.com/photo-1585095595274-aeffce35511a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80',
-            'Python House',
+            'Pytho Transport',
             new Products(
-                'cuccia',
-                '120€',
-                'https://images.unsplash.com/photo-1587847659387-829e7f9f38ba?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=435&q=80'
+                'transportino',
+                '50€',
+                'https://images.unsplash.com/photo-1552584924-5631323f8895?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80'
             )
         ),
         new SingleProduct(
@@ -120,29 +120,29 @@
             'https://images.unsplash.com/photo-1604984938695-709c41f45cf1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=509&q=80',
             'Slow Motion',
             new Products(
-                'cuccia',
-                '1000€',
-                'https://images.unsplash.com/photo-1583495872473-56b9fb679d25?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1174&q=80'
+                'copertina',
+                '20€',
+                'https://images.unsplash.com/photo-1608692691730-af21815a8359?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80'
             )
         ),
         new SingleProduct(
             'iguane',
             'https://images.unsplash.com/photo-1590418270220-243198c900cc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=435&q=80',
-            'IguaHouse',
+            'Worms',
             new Products(
-                'cuccia',
+                'cibo',
                 '120€',
-                'https://images.unsplash.com/photo-1630042625493-ef1884876f89?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1332&q=80'
+                'https://images.unsplash.com/photo-1656870648496-bdec7ee0c818?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=578&q=80'
             )
         ),
         new SingleProduct(
             'cavalli',
             'https://images.unsplash.com/photo-1606107869722-d5cbadabe2f0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80',
-            'Unicorn House',
+            'Ferri di Cavallo',
             new Products(
-                'cuccia',
-                '1500€',
-                'https://images.unsplash.com/photo-1541600593739-1d4c5177aae2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80'
+                'Giochi',
+                '500€',
+                'https://images.unsplash.com/photo-1616162205583-e9a75b8da695?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=388&q=80'
             )
         ),
         new SingleProduct(
@@ -158,65 +158,70 @@
         new SingleProduct(
             'bovini',
             'https://images.unsplash.com/photo-1596733430284-f7437764b1a9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80',
-            'Toretto House',
+            'Toretto Pullover',
             new Products(
-                'cuccia',
-                '3000€',
-                'https://images.unsplash.com/photo-1678773879468-a4f21907e480?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1325&q=80'
+                'abbigliamento',
+                '500€',
+                'https://images.unsplash.com/photo-1545468800-85cc9bc6ecf7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1915&q=80'
             )
         )
     ];
- 
-
     
 ?>
 <main>
-    <div class="container d-flex mt-5">
+    <div class="container mt-4">
 
-        <!-- left side -->
-        <div class="container left">
-            <div class="row row-gap-4">
-    
-                <!-- foreach di arrayProdotti -->
-                <?php foreach($arrayCategory as $key => $elements) {?>
-                    <div class="col-6">
-    
-                        <!-- card -->
-                        <div class="card w-100">
+        <!-- header -->
+        <div class="row header justify-content-between row-gap-3">
+
+            <!-- foreach di arrayProdotti -->
+            <?php foreach($arrayCategory as $elements) {?>
+                <div class="col-2">
+
+                    <!-- card -->
+                    <div class="card w-100">
+                    
+                        <!-- card-img-top -->
+                        <img src="<?php echo $elements->image ?>" class="card-img-top object-fit-cover" alt="<?php echo $elements->genre ?>">            
                         
-                            <!-- card-img-top -->
-                            <img src="<?php echo $elements->image ?>" class="card-img-top object-fit-cover" alt="<?php echo $elements->genre ?>">
-            
-                            
-                            <h5 class="card-title text-uppercase text-center pt-1"><?php echo $elements->genre ?></h5>                           
-                        </div>
+                        <h6 class="card-title text-uppercase text-center pt-1"><?php echo $elements->genre ?></h6>                           
                     </div>
-                <?php } ?>
-            </div>
+                </div>
+            <?php } ?>
         </div>
 
-        <!-- right -->
-        <div class="container right">
-            <div class="row row-gap-4">
-        
-                <!-- foreach di arrayProdotti -->
-                <?php foreach($arrayProducts as $key => $elements) {?>
-                    <div class="col-6">
+        <!-- body -->
+        <div class="row body row-gap-4 mt-4">
+    
+            <!-- foreach di arrayProdotti -->
+            <?php foreach($arrayProducts as $key => $elements) {?>
+                <div class="col-3">
 
-                        <!-- card -->
-                        <div class="card w-100">
-                        
-                            <!-- card-img-top -->
-                            <img src="<?php echo $elements->image ?>" class="card-img-top object-fit-cover" alt="<?php echo $elements->genre ?>">
+                    <!-- card -->
+                    <div class="card w-100">
 
-                            <div class="card-body">
-                                <h5 class="card-title text-uppercase"><?php echo $elements->genre ?></h5>
-                                
-                            </div>
+                        <!-- card-img-top -->
+                        <img src="<?php echo $elements->typeProduct->imageProduct; ?>" class="card-img-top object-fit-cover" alt="<?php echo $elements->product; ?>">
+
+                        <div class="card-body">
+
+                            <!-- prezzo -->
+                            <h6 class="card-subtitle mb-2 text-body-secondary">
+                                Prezzo: 
+                                <?php echo $elements->typeProduct->price; ?>
+                            </h6>
+                            <!-- categoria -->
+                            <span class="badge text-bg-primary">
+                                <?php echo $elements->genre; ?>
+                            </span>
+                            <!-- tipologia prodotto -->
+                            <span class="badge text-bg-success">
+                                <?php echo $elements->typeProduct->type; ?>                                
+                            </span>
                         </div>
                     </div>
-                <?php } ?>
-            </div>
+                </div>
+            <?php } ?>
         </div>
     </div>
 </main>

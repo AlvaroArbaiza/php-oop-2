@@ -1,11 +1,7 @@
-.container.left .card-img-top {
-    height: 100px;
+.row.header .card-img-top {
+    height: 70px;
 }
 
-.container.left {
-    flex-basis: 30%;
+.row.body .card-img-top {
+    height: 180px;
 }
-
-/* .container.right {
-    flex-basis: 70%;
-} */
