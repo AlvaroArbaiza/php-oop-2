@@ -203,8 +203,12 @@
                         <!-- card-img-top -->
                         <img src="<?php echo $elements->typeProduct->imageProduct; ?>" class="card-img-top object-fit-cover" alt="<?php echo $elements->product; ?>">
 
-                        <div class="card-body">
+                        <div class="card-body pt-2">
 
+                            <!-- nome -->
+                            <h5 class="card-title text-center mb-3">
+                                <?php echo $elements->product; ?>                                
+                            </h5>
                             <!-- prezzo -->
                             <h6 class="card-subtitle mb-2 text-body-secondary">
                                 Prezzo: 
