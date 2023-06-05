@@ -26,9 +26,10 @@
         public function setPrice($discount) {
             if($discount > 0 || $discount != null) {
 
-                // var_dump(100 / $discount);
-
                 return $this->price = $this->price - ($this->price * ( $discount / 100 ));
+            } else {
+
+                throw new Exception('Il valore è null oppure è un numero uguale a zero');
             }
         }
 

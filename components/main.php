@@ -184,7 +184,7 @@
     //     echo $index;
     // }
 
-    var_dump($arrayProducts);
+    // var_dump($arrayProducts);
 ?>
 <main>
     <div class="container mt-4">
