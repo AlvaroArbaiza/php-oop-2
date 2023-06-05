@@ -3,8 +3,8 @@
 // questo andrà in composition
     class Products {
 
-        public $type;
-        public $price;
+        private $type;
+        protected $price;
         public $imageProduct;
 
 
@@ -13,6 +13,14 @@
             $this->type = $_type;
             $this->price = $_price;
             $this->imageProduct = $_imageProduct;
+        }
+
+        public function getType() {
+            return $this->type;
+        }
+
+        public function getPrice() {
+            return $this->price;
         }
 
     }

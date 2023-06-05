@@ -2,8 +2,8 @@
 
     class Category {
 
-        public $genre;
-        public $image;
+        private $genre;
+        private $image;
 
         public function __construct($_genre, $_image) {
 
@@ -12,6 +12,13 @@
 
         }
 
+        public function getGenres() {
+            return $this->genre;
+        }
+
+        public function getImage() {
+            return $this->image;
+        }
     }
 
 ?>

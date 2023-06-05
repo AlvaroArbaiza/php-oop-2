@@ -182,9 +182,9 @@
                     <div class="card w-100">
                     
                         <!-- card-img-top -->
-                        <img src="<?php echo $elements->image ?>" class="card-img-top object-fit-cover" alt="<?php echo $elements->genre ?>">            
+                        <img src="<?php echo $elements->getImage() ?>" class="card-img-top object-fit-cover" alt="<?php echo $elements->getGenres() ?>">            
                         
-                        <h6 class="card-title text-uppercase text-center pt-1"><?php echo $elements->genre ?></h6>                           
+                        <h6 class="card-title text-uppercase text-center pt-1"><?php echo $elements->getGenres() ?></h6>                           
                     </div>
                 </div>
             <?php } ?>
@@ -201,26 +201,26 @@
                     <div class="card w-100">
 
                         <!-- card-img-top -->
-                        <img src="<?php echo $elements->typeProduct->imageProduct; ?>" class="card-img-top object-fit-cover" alt="<?php echo $elements->product; ?>">
+                        <img src="<?php echo $elements->typeProduct->imageProduct; ?>" class="card-img-top object-fit-cover" alt="<?php echo $elements->getProduct(); ?>">
 
                         <div class="card-body pt-2">
 
                             <!-- nome -->
                             <h5 class="card-title text-center mb-3">
-                                <?php echo $elements->product; ?>                                
+                                <?php echo $elements->getProduct(); ?>                                
                             </h5>
                             <!-- prezzo -->
                             <h6 class="card-subtitle mb-2 text-body-secondary">
                                 Prezzo: 
-                                <?php echo $elements->typeProduct->price; ?>
+                                <?php echo $elements->typeProduct->getPrice(); ?>
                             </h6>
                             <!-- categoria -->
                             <span class="badge text-bg-primary">
-                                <?php echo $elements->genre; ?>
+                                <?php echo $elements->getGenres(); ?>
                             </span>
                             <!-- tipologia prodotto -->
                             <span class="badge text-bg-success">
-                                <?php echo $elements->typeProduct->type; ?>                                
+                                <?php echo $elements->typeProduct->getType(); ?>                                
                             </span>
                         </div>
                     </div>
