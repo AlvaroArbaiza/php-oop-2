@@ -23,5 +23,14 @@
             return $this->price;
         }
 
+        public function setPrice($discount) {
+            if($discount > 0 || $discount != null) {
+
+                // var_dump(100 / $discount);
+
+                return $this->price = $this->price - ($this->price * ( $discount / 100 ));
+            }
+        }
+
     }
 ?>

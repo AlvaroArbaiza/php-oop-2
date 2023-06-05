@@ -63,7 +63,7 @@
             null, 
             new Products(
                 'cibo', 
-                '10€', 
+                10, 
                 'https://images.unsplash.com/photo-1597843786411-a7fa8ad44a95?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80'
             ) 
         ),
@@ -71,10 +71,10 @@
             'gatti',
             'https://images.unsplash.com/photo-1615897232510-bea8a87666a8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=580&q=80',
             'Imperial Cat',
-            null, 
+            20, 
             new Products(
                 'cuccia', 
-                '150€', 
+                150, 
                 'https://images.unsplash.com/photo-1661005446093-df1f9a9e43d1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80'
             ) 
         ),
@@ -82,10 +82,10 @@
             'roditori',
             'https://images.unsplash.com/photo-1548767797-d8c844163c4c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80',
             'Topis Roulant',
-            null,
+            80,
             new Products(
                 'gioco',
-                '30€',
+                30,
                 'https://images.unsplash.com/photo-1657076761228-bdb21cf0bc7c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80'
             )
         ),
@@ -96,7 +96,7 @@
             null,
             new Products(
                 'cuccia',
-                '120€',
+                120,
                 'https://images.unsplash.com/photo-1640150923626-309f9606f7c2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80'
             )
         ),
@@ -107,7 +107,7 @@
             null,
             new Products(
                 'transportino',
-                '50€',
+                50,
                 'https://images.unsplash.com/photo-1552584924-5631323f8895?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80'
             )
         ),
@@ -118,7 +118,7 @@
             null,
             new Products(
                 'cuccia',
-                '200€',
+                200,
                 'https://images.unsplash.com/photo-1520301255226-bf5f144451c1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1173&q=80'
             )
         ),
@@ -129,7 +129,7 @@
             null,
             new Products(
                 'copertina',
-                '20€',
+                20,
                 'https://images.unsplash.com/photo-1608692691730-af21815a8359?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80'
             )
         ),
@@ -140,7 +140,7 @@
             null,
             new Products(
                 'cibo',
-                '120€',
+                120,
                 'https://images.unsplash.com/photo-1656870648496-bdec7ee0c818?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=578&q=80'
             )
         ),
@@ -148,10 +148,10 @@
             'cavalli',
             'https://images.unsplash.com/photo-1606107869722-d5cbadabe2f0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80',
             'Ferri di Cavallo',
-            null,
+            10,
             new Products(
                 'Giochi',
-                '500€',
+                500,
                 'https://images.unsplash.com/photo-1616162205583-e9a75b8da695?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=388&q=80'
             )
         ),
@@ -162,7 +162,7 @@
             null,
             new Products(
                 'cuccia',
-                '2000€',
+                2000,
                 'https://images.unsplash.com/photo-1523281407698-d23331543d99?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80'
             )
         ),
@@ -170,10 +170,10 @@
             'bovini',
             'https://images.unsplash.com/photo-1596733430284-f7437764b1a9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80',
             'Toretto Pullover',
-            null,
+            50,
             new Products(
                 'abbigliamento',
-                '500€',
+                500,
                 'https://images.unsplash.com/photo-1545468800-85cc9bc6ecf7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1915&q=80'
             )
         )
@@ -184,7 +184,7 @@
     //     echo $index;
     // }
 
-    // var_dump($arrayProducts);
+    var_dump($arrayProducts);
 ?>
 <main>
     <div class="container mt-4">
@@ -216,11 +216,17 @@
                 <div class="col-3">
 
                     <!-- card -->
-                    <div class="card w-100">
+                    <div class="card w-100 position-relative">
 
                         <!-- card-img-top -->
-                        <img src="<?php echo $elements->typeProduct->imageProduct; ?>" class="card-img-top object-fit-cover" alt="<?php echo $elements->getProduct(); ?>" onclick="getIndex(<?php echo $key; ?>)">
+                        <img 
+                            src="<?php echo $elements->typeProduct->imageProduct; ?>" 
+                            class="card-img-top object-fit-cover" 
+                            alt="<?php echo $elements->getProduct(); ?>" 
+                            onclick="getIndex(<?php echo $key; ?>)"
+                        >
 
+                        <!-- card body -->
                         <div class="card-body pt-2">
 
                             <!-- nome -->
@@ -228,10 +234,20 @@
                                 <?php echo $elements->getProduct(); ?>                                
                             </h5>
                             <!-- prezzo -->
-                            <h6 class="card-subtitle mb-2 text-body-secondary">
-                                Prezzo: 
-                                <?php echo $elements->typeProduct->getPrice(); ?>
-                            </h6>
+                            <?php if( $elements->getDiscount() != null) { ?>
+                                <h6 class="card-subtitle mb-2 text-body-secondary">
+                                    Prezzo: 
+                                    <span class="text-decoration-line-through">
+                                        <?php echo $elements->typeProduct->getPrice(); ?>&#8364;
+                                    </span>
+                                    <?php echo $elements->typeProduct->setPrice($elements->getDiscount()); ?>&#8364;
+                                </h6>
+                            <?php } else {?>
+                                <h6 class="card-subtitle mb-2 text-body-secondary">
+                                    Prezzo: 
+                                    <?php echo $elements->typeProduct->getPrice(); ?>&#8364;
+                                </h6>
+                            <?php } ?>
                             <!-- categoria -->
                             <span class="badge text-bg-primary">
                                 <?php echo $elements->getGenres(); ?>
@@ -240,6 +256,12 @@
                             <span class="badge text-bg-success">
                                 <?php echo $elements->typeProduct->getType(); ?>                                
                             </span>
+                            <!-- sconto -->
+                            <?php if( $elements->getDiscount() != null) { ?>
+                                <span class="discount badge text-bg-danger position-absolute p-2">
+                                    -<?php echo $elements->getDiscount();?>&#37;
+                                </span>
+                            <?php } ?>
                         </div>
                     </div>
                 </div>
