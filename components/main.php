@@ -185,6 +185,7 @@
     // }
 
     // var_dump($arrayProducts);
+
 ?>
 <main>
     <div class="container mt-4">
@@ -240,7 +241,16 @@
                                     <span class="text-decoration-line-through">
                                         <?php echo $elements->typeProduct->getPrice(); ?>&#8364;
                                     </span>
-                                    <?php echo $elements->typeProduct->setPrice($elements->getDiscount()); ?>&#8364;
+                                    <?php 
+                                        // try and Catch nel caso di errore
+                                        try {                                            
+                                            echo $elements->typeProduct->setPrice($elements->getDiscount()); 
+
+                                        } catch( Exception $e ) {
+                                            var_dump($e);
+                                            echo $e->getMessage();
+                                        }
+                                    ?>&#8364;
                                 </h6>
                             <?php } else {?>
                                 <h6 class="card-subtitle mb-2 text-body-secondary">
