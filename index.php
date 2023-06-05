@@ -1,3 +1,10 @@
+<?php
+if (isset($_POST['index'])) {
+    $index = $_POST['index'];
+    echo $index;
+}
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -24,6 +31,9 @@
 
     <!-- Bootstrap -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
-
+    <!-- Main JS -->
+    <script src="./main.js"></script>
+    <!-- Axios -->
+    <script src="https://cdn.jsdelivr.net/npm/axios@1.1.2/dist/axios.min.js"></script>
 </body>
 </html>
